@@ -9,9 +9,9 @@ To install this userscript, you'll need a browser extension that allows you to r
 - Tampermonkey (Chrome, Firefox, Safari, Microsoft Edge)
 - Greasemonkey (Firefox)
 
-Once you have one of these extensions installed, Visit the script page at https://ongezell.com/userscripts/lastfm-buddy.user.js
-Click the "Install" button on the userscript manager extension.
-Accept the prompts to install the script.
+- Once you have one of these extensions installed, Visit the script page at https://ongezell.com/userscripts/lastfm-buddy.user.js
+- Click the "Install" button on the userscript manager extension.
+- Accept the prompts to install the script.
 
 ## Configuration
 
