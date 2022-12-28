@@ -27,7 +27,7 @@ To do this, create a JSON file with the following structure:
   "scrobbling": "https://i.imgur.com/oyE70Kv.png",
   "css": ".some-class { color: blue; }"
 }
-
+ ``` 
 Then, host the file somewhere (e.g. on a GitHub Gist, or your own web server) and add a line to your "about-me" section that starts with "config:" followed by the URL of the JSON file. For example:
 
 `config: https://website.com/config.json`
