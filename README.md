@@ -47,4 +47,4 @@ To do this, go to your Last.FM profile page and click the "edit" button next to 
 ## Tips
 
 - If you don't want to use the buddy, simply remove the "buddy" string from your "about-me" section or don't fill the img fields in the JSON file.
-- If you want to modify the CSS styles in your Last.FM profile, you can edit the "css" property in your JSON file, it will be visible to everyone using the script that visit your profile page.
+- If you want to modify the CSS styles in your Last.FM profile, you can edit the "css" property in your JSON file, it will be visible for those who visit your profile page and also have the script installed.
