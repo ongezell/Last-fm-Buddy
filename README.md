@@ -15,9 +15,7 @@ Once you have one of these extensions installed, Visit the script page at https:
 
 ## Configuration
 
-There are two ways to customize Last.FM Buddy:
-
-1. By adding a "config" string to your "about-me" section that points to a JSON file containing your configuration.
+You need to add a "config" string to your "about-me" section that points to a JSON file containing your configuration.
 
 To do this, create a JSON file with the following structure:
 
@@ -32,16 +30,10 @@ Then, host the file somewhere (e.g. on a GitHub Gist, or your own web server) an
 
 `config: https://website.com/config.json`
 
-this method allows you to add custom CSS to your profile page.
+this allows you to add custom CSS to your profile page.
 
 as seen on my profile : https://www.last.fm/user/Ongezell
 
-
-2. By adding a "buddy" string to your "about-me" section on your Last.FM profile page.
-
-To do this, go to your Last.FM profile page and click the "edit" button next to the "about-me" section. Add a line that starts with "buddy:" followed by the URL of the image you want to use when you're not scrobbling, a comma, and the URL of the image you want to use when you are scrobbling. For example:
-
-`buddy: https://website.com/image.png, https://website.com/image.gif`
 
 
 ## Tips
