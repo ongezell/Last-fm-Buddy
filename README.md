@@ -1,6 +1,6 @@
 # Last.FM Buddy
 
-Welcome to Last.FM Buddy! Customize your Last.fm page with a personalized buddy and CSS styles using this userscript. Make your profile stand out and show off your personality with our easy-to-use script.
+Customize your Last.fm page with a personalized buddy and CSS styles using this userscript. Make your profile stand out and show off your personality with this script.
 
 ## Installation
 
@@ -38,5 +38,4 @@ as seen on my profile : https://www.last.fm/user/Ongezell
 
 ## Tips
 
-- If you don't want to use the buddy, simply remove the "buddy" string from your "about-me" section or don't fill the img fields in the JSON file.
 - If you want to modify the CSS styles in your Last.FM profile, you can edit the "css" property in your JSON file, it will be visible for those who visit your profile page and also have the script installed.
